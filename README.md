@@ -5,7 +5,8 @@
   𝚂𝚎𝚌𝚞𝚛𝚎 𝙵𝚒𝚕𝚎𝚜 𝚊𝚗𝚍 𝙿𝚊𝚢𝚖𝚎𝚗𝚝𝚜
 </head>
 <body>
-  <h1>Vault File</h1>
+  <h1>𝓥𝓪𝓾𝓵𝓽 𝓕𝓲𝓵𝓮
+  𝚂𝚎𝚌𝚞𝚛𝚎 𝙵𝚒𝚕𝚎𝚜 𝚊𝚗𝚍 𝙿𝚊𝚢𝚖𝚎𝚗𝚝𝚜</h1>
   <p>Scan the QR code or click the payment link below to pay via UPI.</p>
 
 <img src="upi_qr.png" alt="UPI QR Code" width="200" />  
