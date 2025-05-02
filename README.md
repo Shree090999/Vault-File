@@ -7,7 +7,8 @@ Vault File
 <body>
   <h1>Vault File</h1>
   <p>Scan the QR code or click the payment link below to pay via UPI.</p>
-  
+
+<img src="upi_qr.png" alt="UPI QR Code" width="200" />  
   <p><a href="https://razorpay.me/@vaultfile0909" target="_blank">Pay with Razorpay</a></p>
 
   <h2>After Payment</h2>
