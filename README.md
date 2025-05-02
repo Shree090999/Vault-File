@@ -2,7 +2,7 @@ Vault File
 <!DOCTYPE html>
 <html>
 <head>
-  Buy & Download
+  Vault File
 </head>
 <body>
   <h1>Vault File</h1>
@@ -13,9 +13,7 @@ Vault File
 
   <h2>After Payment</h2>
   <p>Please fill out this form with your UPI transaction ID and email:</p>
-  <iframe src="https://forms.gle/AsnSQJZH7nJsKewcA" width="640" height="800"></iframe>
+  <iframe src="" width="640" height="800"></iframe>
 
 </body>
-git add.
-git commit -m "Deleted upi_qr.png"
-git push
+
