@@ -16,3 +16,6 @@ Vault File
   <iframe src="https://forms.gle/AsnSQJZH7nJsKewcA" width="640" height="800"></iframe>
 
 </body>
+git add.
+git commit -m "Deleted upi_qr.png"
+git push
