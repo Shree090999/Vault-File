@@ -13,7 +13,7 @@ Vault File
 
   <h2>After Payment</h2>
   <p>Please fill out this form with your UPI transaction ID and email:</p>
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPQlbtIXAIF98O4jdyvA4jHnQMrtT7zf6SyHjusm2jZ5UNGg/viewform?usp=sharing" width="640" height="800"></iframe>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPQlbtIXAIF98O4jdyvA4jHnQMrtT7zf6SyHjusm2jZ5UNGg/viewform?embedded=true" width="640" height="719" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 </body>
 
